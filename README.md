@@ -1,5 +1,7 @@
-#Random Text Generator
+# Random Text Generator
+
 <img src="video.gif" width="600px" height="400px" />
+
 An online Random Text Generator that you can use for sample web pages and design mockups.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
